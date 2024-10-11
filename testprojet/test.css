@@ -10,7 +10,7 @@ body {
 }
 
 nav {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgb(255, 0, 0);
     padding: 10px 0;
     text-align: center;
     position: fixed;
@@ -34,8 +34,8 @@ nav ul li a {
 }
 
 .hero {
-    height: 50vh;
-    background-color: #444;
+    height: 100vh;
+    background-color: #0000ff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,11 +46,11 @@ nav ul li a {
 }
 
 .hero h1 {
-    font-size: 3em;
+    font-size: 5em;
 }
 
 .hero p {
-    font-size: 1.5em;
+    font-size: 2em;
     margin-bottom: 20px;
 }
 
